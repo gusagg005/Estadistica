@@ -1,6 +1,6 @@
 # 📊 Proyecto de Análisis Estadístico en C++ & Python
 
-Este repositorio contiene una colección de herramientas estadísticas implementadas en C++, diseñadas para facilitar el análisis de datos mediante técnicas tanto clásicas como bayesianas. Cada función está orientada a ser educativa, interactiva y totalmente operativa desde consola, permitiendo el ingreso manual de datos por parte del usuario.
+Este repositorio contiene una colección de herramientas estadísticas implementadas en C++ & Python, diseñadas para facilitar el análisis de datos mediante técnicas tanto clásicas como bayesianas. Cada función está orientada a ser educativa, interactiva y totalmente operativa desde consola, permitiendo el ingreso manual de datos por parte del usuario.
 
 ---
 
